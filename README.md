@@ -9,3 +9,5 @@
 # pip install torch torchvision torchaudio numpy tqdm pillow matplotlib scikit-learn
 
 # Vous pourrez observer a la fin de ce projet une courbe de perte ainsi qu'une courbe de précision afin de pouvoir observer l'apprentisage progressif du modele.
+
+# Concernant les difficultés rencontrées que je n'ai pas reussi a expliquer et que les loss et la precision de mon modele sont trop eleves et je ne comprends pas pourquoi il est aussi parfait tout de suite. 
